@@ -34,7 +34,7 @@ Additionally, I am certified at a **B1/B2 English level**, which allows me to co
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-<img src="https://upload.vectorlogo.zone/logos/github/github-icon.svg](https://upload.vectorlogo.zone/logos/github/images/c53f393e-9094-4b00-9f76-e489cabbf2a9.svg" alt="GitHub" width="40" height="40"/>
+<img src="[https://upload.vectorlogo.zone/logos/github/github-icon.svg](https://upload.vectorlogo.zone/logos/github/images/c53f393e-9094-4b00-9f76-e489cabbf2a9.svg](https://upload.vectorlogo.zone/logos/github/images/c53f393e-9094-4b00-9f76-e489cabbf2a9.svg)" alt="GitHub" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
