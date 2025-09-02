@@ -49,6 +49,6 @@ Additionally, I am certified at a **B1/B2 English level**, which allows me to co
 ## 📊 GitHub Stats
 <br/>
 <p align="center">
-  <a href="#"><img alt="Juan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
-  <a href="#"><img alt="Juan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+  <a href="#"><img alt="Juan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tserriednich15&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+  <a href="#"><img alt="Juan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tserriednich15&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
 </p>
