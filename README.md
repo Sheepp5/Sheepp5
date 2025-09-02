@@ -4,23 +4,23 @@
 <h3 align="center">Frontend Junior Developer | Passionate about building modern web applications</h3>
 <br>
 
-🎓 I hold a degree as a **Technologist in Software Analysis and Development** from **SENA**, complemented by certified courses in **Programming Fundamentals** and **Web Development with PHP**.  
-Additionally, I am certified at a **B1/B2 English level**, which allows me to communicate effectively in technical and professional environments.  
+🎓I am a software developer with a degree in **software analysis and development** and I have taken some courses in programming fundamentals and programming languages such as PHP provided by SENA.
 
-💡 My learning journey has been a mix of formal education and continuous self-driven practice. Currently, I am expanding my skills by learning **React, TypeScript, Tailwind CSS, and Astro**, with the goal of building even more scalable and professional applications.  
+💡 I am also certified in **English B1/B2**, which allows me to communicate effectively in technical and professional environments. 
+My learning journey has been a combination of formal education and continuous self-driven practice. Currently, I am expanding my skills by learning **React, TypeScript, Tailwind CSS, and Astro**, aiming to build more scalable and professional applications. 
 
-✨ Through hands-on projects, I have gained valuable experience in designing, structuring, and delivering functional software solutions:  
+✨ Through hands-on projects, I have gained valuable experience in designing, structuring, and delivering functional software solutions:
 
-- 📖 **Manga Wiki Web App** – A Wikipedia-style application that dynamically consumes APIs to display manga information.  
-  → This project helped me **strengthen my JavaScript skills**, create **dynamic UI components**, and apply **UI/UX principles** to improve usability.  
+- 📖 **WikiSheep** – A Wikipedia-style application that dynamically consumes APIs to display manga information.  
+   → Strengthened my **JavaScript skills**, built **dynamic UI components**, and applied **UI/UX principles** to improve usability.  
 
-- 📚 **Library Management System (CRUD)** – A full-stack web application that manages books and users.  
-  → I learned how to **separate frontend and backend**, structure projects correctly, run servers with **Vite**, and improve my **database integration skills**.  
+- 📚 **Bibliomania** – A full-stack web application for managing books and users.  
+   → Learned how to **separate frontend and backend**, structure projects correctly, run servers with **Vite**, and improve my **database integration skills**.  
 
-- 🖥️ **Java Desktop CRUD Application** – A desktop-based system developed in **Java**.  
-  → This project gave me the experience of **building an application from scratch**, understanding the workflow of desktop applications, and improving **problem-solving in OOP**.  
+- 🖥️ **Bibliomania Desktop** – A desktop system developed in **Java**.  
+   → Gained experience in **building an application from scratch**, understanding the workflow of desktop apps, and improving my **problem-solving with OOP**.  
 
-🌱 Every project I take on is an opportunity to grow: from mastering APIs and backend connections to improving my frontend design and coding practices.  
+🌱 Every project I take on is an opportunity to grow: from mastering APIs and backend connections to enhancing frontend design and coding practices.  
 
 <br>
 
