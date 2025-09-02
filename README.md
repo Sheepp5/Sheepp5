@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 
-<img src="./R.gif" width="500" alt="Animación pescesitos" />
+<img src="./R.gif" width="100%" alt="Animación pescesitos" />
 
 ✨ Bienvenid@ a mi perfil ✨
