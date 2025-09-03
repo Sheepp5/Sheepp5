@@ -1,7 +1,7 @@
 <a href="#"><img width="auto" height="auto" src="./R.gif"/></a>
 
-<h1 align="center">Hi ☁️, I'm Juan</h1>
-<h3 align="center">Frontend Junior Developer | Passionate about building modern web applications</h3>
+<h1 align="center">Hi ☁️, I'm Juan!</h1>
+<h3 align="center">Frontend Junior Developer 👨🏻‍💻</h3>
 <br>
 
 🎓I am a software developer with a degree in **software analysis and development** and I have taken some courses in programming fundamentals and programming languages such as PHP provided by SENA.
