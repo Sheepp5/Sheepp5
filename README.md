@@ -41,7 +41,6 @@ My learning journey has been a combination of formal education and continuous se
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-<img src="https://svgl.app/library/astro_dark.svg" alt="Astro" width="40" height="40"/>
 </p>
 
 <br>
